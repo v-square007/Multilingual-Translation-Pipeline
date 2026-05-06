@@ -1,4 +1,4 @@
-# Deriv Multilingual Translation Pipeline
+# Multilingual Translation Pipeline
 
 A replayable, staged pipeline that fetches Deriv website pages, extracts translatable content, protects brand terms, translates into multiple languages via Google Gemini, reconstructs HTML output, and runs deterministic and LLM-assisted QA.
 
